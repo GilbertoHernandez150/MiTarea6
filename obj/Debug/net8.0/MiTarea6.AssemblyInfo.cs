@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiTarea6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3c964b1e67dd7f6993753de64b5a4748874aa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15b8bdb89acac5e2558a1fda054e14c0b5b30342")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiTarea6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiTarea6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
